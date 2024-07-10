@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+	font-size: 11pt;
+}
+
+.tinymce-content p {
+	padding: 0;
+	margin: 2px 0;
+}
+
+p.hangingIndent {
+	text-indent: -28px;
+	padding-left: 28px;
+}
